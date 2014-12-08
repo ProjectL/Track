@@ -6,16 +6,17 @@ Track
 "track": {
         "trackid": "",
         "trackTitle": "",
-        "trackNumber": "",
+        "trackNumberOnAlbum": "",
         "trackDuration": "",
-        "trackArtImageUrl": "",
+        "trackImage1Url": "",
         "trackArtist": "",
-        "trackArtistImage": "",
         "trackAudioUrl": "",
-        "trackProducerName": "",
-        "trackProducerImageUrl": "",
-        "trackProducerTwitter": ""
-        
+        "trackProducer": [],
+        "trackSoundcloud": "",
+        "trackSpotify": "",
+        "trackRdio": "",
+        "trackYoutube": "",
+        "trackMusixmatch": ""
         
         }
         
