@@ -4,7 +4,6 @@ Track
 ```json
 {
 "track": {
-        "trackid": "",
         "trackTitle": "",
         "trackNumberOnAlbum": "",
         "trackDuration": "",
@@ -16,7 +15,8 @@ Track
         "trackSpotify": "",
         "trackRdio": "",
         "trackYoutube": "",
-        "trackMusixmatch": ""
+        "trackMusixmatch": "",
+        "trackLabelImageUrl": ""
         
         }
         
